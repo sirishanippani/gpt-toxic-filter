@@ -1,6 +1,6 @@
 # 🚨 GPT Toxic Comment Filter
 
-Toxicity-detecting comment classifier powered by GPT-4. ✨  
+Toxicity-detecting comment classifier powered by GPT-4.  
 Built with Python and Streamlit.
 
 ## 🔍 Features
