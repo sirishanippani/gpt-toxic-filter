@@ -1,0 +1,8 @@
+You are a moderation assistant. Classify the following comment as:
+1. Non-toxic
+2. Mildly toxic
+3. Highly toxic
+
+Comment: "{{comment}}"
+
+Return only the label (1, 2, or 3).
